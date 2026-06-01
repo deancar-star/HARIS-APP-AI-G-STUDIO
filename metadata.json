@@ -1,0 +1,6 @@
+{
+  "name": "Parental Control",
+  "description": "A comprehensive family safety and parental control dashboard. Set screen time rules, toggle app locks, monitor searches, view child walking paths, and receive real-time AI security advice from the safety coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
